@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+    <fileVersion>5</fileVersion>
+    <fileChecksum>3631064835</fileChecksum>
+    <configuration>
+        <name>IS_COMM_Tst</name>
+        <outputs>
+            <file>$PROJ_DIR$\..\Core\Src\stm32g0xx_hal_msp.c</file>
+            <file>$PROJ_DIR$\..\Core\Src\stm32g0xx_it.c</file>
+            <file>$PROJ_DIR$\..\Core\Src\main.c</file>
+            <file>$PROJ_DIR$\..\Core\Modules\Conversions\ASCII_numbers.c</file>
+            <file>$PROJ_DIR$\..\Core\Modules\Fiber_Comm\fiber_comm.c</file>
+            <file>$PROJ_DIR$\..\Core\Modules\SSD1306\OLED\Src\fonts.c</file>
+            <file>$PROJ_DIR$\..\Core\Modules\GPS\gps.c</file>
+            <file>$PROJ_DIR$\..\Core\Modules\RS_485_Comm\rs_485_comm.c</file>
+            <file>$PROJ_DIR$\..\Core\Modules\Serial_Mult\Serial.c</file>
+            <file>$PROJ_DIR$\..\Core\Modules\Serial_Mult\serial_user.c</file>
+            <file>$PROJ_DIR$\..\Core\Modules\SSD1306\OLED\Src\ssd1306.c</file>
+            <file>$PROJ_DIR$\..\Drivers\STM32G0xx_HAL_Driver\Src\stm32g0xx_ll_usart.c</file>
+            <file>$PROJ_DIR$\..\Core\Modules\UX\ux_manager.c</file>
+        </outputs>
+        <forcedrebuild>
+            <name>[REBUILD_ALL]</name>
+        </forcedrebuild>
+    </configuration>
+</project>

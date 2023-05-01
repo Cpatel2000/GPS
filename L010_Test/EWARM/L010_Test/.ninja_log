@@ -1,0 +1,166 @@
+# ninja log v5
+1	34	7012483034885319	C:/Users/johnn/Downloads/L010_Test (1)/L010_Test/EWARM/L010_Test/Obj/Application/EWARM/startup_stm32l010x4.o	cb5bc827dfe59268
+5	205	7012483036680515	C:/Users/johnn/Downloads/L010_Test (1)/L010_Test/EWARM/L010_Test/Obj/Application/User/Core/stm32l0xx_hal_msp.o	93447c531f546eb5
+16	278	7012483037408575	C:/Users/johnn/Downloads/L010_Test (1)/L010_Test/EWARM/L010_Test/Obj/Application/User/Modules/ASCII_numbers.o	d866700d9f08e2f
+7	293	7012483037498333	C:/Users/johnn/Downloads/L010_Test (1)/L010_Test/EWARM/L010_Test/Obj/Application/User/Core/stm32l0xx_it.o	bfa15ebc84ab179f
+23	325	7012483037867349	C:/Users/johnn/Downloads/L010_Test (1)/L010_Test/EWARM/L010_Test/Obj/Drivers/CMSIS/system_stm32l0xx.o	2554cb358434ef7c
+10	344	7012483038046860	C:/Users/johnn/Downloads/L010_Test (1)/L010_Test/EWARM/L010_Test/Obj/Application/User/Core/main.o	fc86e6b877cf0d90
+20	350	7012483038056835	C:/Users/johnn/Downloads/L010_Test (1)/L010_Test/EWARM/L010_Test/Obj/Application/User/Modules/Serial.o	9e0cb7b0402fc07f
+25	381	7012483038425856	C:/Users/johnn/Downloads/L010_Test (1)/L010_Test/EWARM/L010_Test/Obj/Application/User/Modules/SevenSegLED.o	ded65da60002275b
+206	422	7012483038824778	C:/Users/johnn/Downloads/L010_Test (1)/L010_Test/EWARM/L010_Test/Obj/Drivers/STM32L0xx_HAL_Driver/stm32l0xx_hal_cortex.o	ed851c66a5955650
+35	449	7012483039094060	C:/Users/johnn/Downloads/L010_Test (1)/L010_Test/EWARM/L010_Test/Obj/Drivers/STM32L0xx_HAL_Driver/stm32l0xx_hal_exti.o	5a213f682ce137b3
+280	479	7012483039413205	C:/Users/johnn/Downloads/L010_Test (1)/L010_Test/EWARM/L010_Test/Obj/Drivers/STM32L0xx_HAL_Driver/stm32l0xx_hal.o	17f14287ab8c3563
+326	484	7012483039423188	C:/Users/johnn/Downloads/L010_Test (1)/L010_Test/EWARM/L010_Test/Obj/Drivers/STM32L0xx_HAL_Driver/stm32l0xx_hal_pwr_ex.o	74916c7da694617
+29	520	7012483039802163	C:/Users/johnn/Downloads/L010_Test (1)/L010_Test/EWARM/L010_Test/Obj/Drivers/STM32L0xx_HAL_Driver/stm32l0xx_hal_flash_ex.o	3df8b2904f46be28
+352	536	7012483039981685	C:/Users/johnn/Downloads/L010_Test (1)/L010_Test/EWARM/L010_Test/Obj/Drivers/STM32L0xx_HAL_Driver/stm32l0xx_hal_i2c_ex.o	3e119c12b5334212
+295	557	7012483040191135	C:/Users/johnn/Downloads/L010_Test (1)/L010_Test/EWARM/L010_Test/Obj/Drivers/STM32L0xx_HAL_Driver/stm32l0xx_hal_flash.o	1b525aa8aa200528
+382	562	7012483040211074	C:/Users/johnn/Downloads/L010_Test (1)/L010_Test/EWARM/L010_Test/Obj/Drivers/STM32L0xx_HAL_Driver/stm32l0xx_hal_pwr.o	b2d3ba976d607eea
+247	594	7012483040560149	C:/Users/johnn/Downloads/L010_Test (1)/L010_Test/EWARM/L010_Test/Obj/Drivers/STM32L0xx_HAL_Driver/stm32l0xx_hal_dma.o	1cb1920dc5d08fb0
+486	627	7012483040899231	C:/Users/johnn/Downloads/L010_Test (1)/L010_Test/EWARM/L010_Test/Obj/Drivers/STM32L0xx_HAL_Driver/stm32l0xx_hal_tim_ex.o	ddf9848979d09fb
+595	629	7012483040939125	C:/Users/johnn/Downloads/L010_Test (1)/L010_Test/EWARM/L010_Test/Obj/Drivers/STM32L0xx_HAL_Driver/stm32l0xx_ll_lpuart.o	a189d666e5f75807
+450	655	7012483041198433	C:/Users/johnn/Downloads/L010_Test (1)/L010_Test/EWARM/L010_Test/Obj/Drivers/STM32L0xx_HAL_Driver/stm32l0xx_hal_flash_ramfunc.o	e56f21ed4389dac2
+424	684	7012483041477687	C:/Users/johnn/Downloads/L010_Test (1)/L010_Test/EWARM/L010_Test/Obj/Drivers/STM32L0xx_HAL_Driver/stm32l0xx_hal_gpio.o	cd7c716467449b40
+559	698	7012483041607335	C:/Users/johnn/Downloads/L010_Test (1)/L010_Test/EWARM/L010_Test/Obj/Drivers/STM32L0xx_HAL_Driver/stm32l0xx_hal_tim.o	85c3d3c84c0cccfe
+539	771	7012483042355344	C:/Users/johnn/Downloads/L010_Test (1)/L010_Test/EWARM/L010_Test/Obj/Drivers/STM32L0xx_HAL_Driver/stm32l0xx_hal_rcc_ex.o	442f50b448a46dbc
+564	822	7012483042864261	C:/Users/johnn/Downloads/L010_Test (1)/L010_Test/EWARM/L010_Test/Obj/Drivers/STM32L0xx_HAL_Driver/stm32l0xx_hal_uart_ex.o	48c7ede40f605942
+522	1003	7012483044665125	C:/Users/johnn/Downloads/L010_Test (1)/L010_Test/EWARM/L010_Test/Obj/Drivers/STM32L0xx_HAL_Driver/stm32l0xx_hal_rcc.o	fb799420b677a80
+481	1416	7012483048781486	C:/Users/johnn/Downloads/L010_Test (1)/L010_Test/EWARM/L010_Test/Obj/Drivers/STM32L0xx_HAL_Driver/stm32l0xx_hal_uart.o	4cc5b92c84a91882
+346	1784	7012483052436997	C:/Users/johnn/Downloads/L010_Test (1)/L010_Test/EWARM/L010_Test/Obj/Drivers/STM32L0xx_HAL_Driver/stm32l0xx_hal_i2c.o	752f2f1a41ad42d4
+1	41	7012483759971329	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Obj/Application/EWARM/startup_stm32l010x4.o	d051d9cba97f24ac
+18	191	7012483761502917	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Obj/Drivers/CMSIS/system_stm32l0xx.o	e3d769c14b1bcaf2
+10	199	7012483761492943	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Obj/Application/User/Core/stm32l0xx_hal_msp.o	b776aed9c2ad4729
+29	221	7012483761662488	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Obj/Application/User/Modules/ASCII_numbers.o	78b5b70b11c91bcf
+21	245	7012483762108294	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Obj/Application/User/Modules/Serial.o	40277756c1af31e8
+32	254	7012483762128235	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Obj/Application/User/Modules/SevenSegLED.o	aa146016af122c99
+4	278	7012483762437411	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Obj/Application/User/Core/stm32l0xx_it.o	b360aa35f4cbeb73
+41	297	7012483762577032	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Obj/Drivers/STM32L0xx_HAL_Driver/stm32l0xx_hal_exti.o	8964d3497608c65c
+35	307	7012483762636872	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Obj/Drivers/STM32L0xx_HAL_Driver/stm32l0xx_hal_flash.o	fa6b6064d16d8648
+14	323	7012483762866272	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Obj/Application/User/Core/main.o	103827f02f84bbb7
+204	461	7012483764187831	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Obj/Drivers/STM32L0xx_HAL_Driver/stm32l0xx_hal_cortex.o	32f1cc581227ab75
+222	477	7012483764397262	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Obj/Drivers/STM32L0xx_HAL_Driver/stm32l0xx_hal.o	63ae32d2d7064462
+247	495	7012483764546859	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Obj/Drivers/STM32L0xx_HAL_Driver/stm32l0xx_hal_pwr.o	e789f3dd1d7e427
+280	516	7012483764696471	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Obj/Drivers/STM32L0xx_HAL_Driver/stm32l0xx_hal_i2c_ex.o	b357657bee169285
+299	560	7012483765205098	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Obj/Drivers/STM32L0xx_HAL_Driver/stm32l0xx_hal_flash_ramfunc.o	c8bf41113a05a3fd
+178	608	7012483765693800	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Obj/Drivers/STM32L0xx_HAL_Driver/stm32l0xx_hal_flash_ex.o	f95e7d35da9290b0
+193	630	7012483765963086	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Obj/Drivers/STM32L0xx_HAL_Driver/stm32l0xx_hal_dma.o	17bd0852401db9ae
+309	648	7012483766122649	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Obj/Drivers/STM32L0xx_HAL_Driver/stm32l0xx_hal_gpio.o	5315e5d4cd9dd829
+462	658	7012483766202430	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Obj/Drivers/STM32L0xx_HAL_Driver/stm32l0xx_hal_tim_ex.o	5927456d23b70430
+632	684	7012483766501630	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Obj/Drivers/STM32L0xx_HAL_Driver/stm32l0xx_ll_lpuart.o	7742541bddfc3e4f
+498	695	7012483766561473	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Obj/Drivers/STM32L0xx_HAL_Driver/stm32l0xx_hal_tim.o	b4c4bbd70d5206d0
+519	721	7012483766880620	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Obj/Drivers/STM32L0xx_HAL_Driver/stm32l0xx_hal_pwr_ex.o	c8ebe7692cd71232
+562	861	7012483768246974	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Obj/Drivers/STM32L0xx_HAL_Driver/stm32l0xx_hal_rcc_ex.o	b7e458f078ce04f1
+610	936	7012483769054814	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Obj/Drivers/STM32L0xx_HAL_Driver/stm32l0xx_hal_uart_ex.o	81d32a5608268e16
+479	1087	7012483770560771	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Obj/Drivers/STM32L0xx_HAL_Driver/stm32l0xx_hal_rcc.o	86048e6c532b8521
+325	1480	7012483774468550	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Obj/Drivers/STM32L0xx_HAL_Driver/stm32l0xx_hal_uart.o	eeb97e7c7f42440c
+256	2022	7012483779849798	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Obj/Drivers/STM32L0xx_HAL_Driver/stm32l0xx_hal_i2c.o	e1169b1e6d4ea4a8
+13	197	7012484495381151	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Obj/Application/User/Modules/ASCII_numbers.o	389b63e692635426
+9	204	7012484495361210	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Obj/Application/User/Core/stm32l0xx_hal_msp.o	55459f50649a4d39
+27	219	7012484495655493	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Obj/Drivers/CMSIS/system_stm32l0xx.o	4f8943aafd208876
+18	239	7012484495775176	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Obj/Application/User/Modules/SevenSegLED.o	22646bf25b0e49fc
+32	254	7012484495914795	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Obj/Application/User/Modules/serial_user.o	ce82ddeb443ccf73
+41	267	7012484496044475	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Obj/Drivers/STM32L0xx_HAL_Driver/stm32l0xx_hal_cortex.o	87bb11e06f32c11a
+23	275	7012484496134217	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Obj/Application/User/Modules/Serial.o	78787677c3c55aea
+2	294	7012484496333687	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Obj/Application/User/Core/stm32l0xx_it.o	a0c5827bec9c060c
+37	301	7012484496293815	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Obj/Drivers/STM32L0xx_HAL_Driver/stm32l0xx_hal_exti.o	e8d694a9c03dc54f
+5	343	7012484496812398	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Obj/Application/User/Core/main.o	e1beadcaa18a6678
+206	473	7012484498178753	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Obj/Drivers/STM32L0xx_HAL_Driver/stm32l0xx_hal.o	d6914660ea1b5fa2
+269	494	7012484498268506	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Obj/Drivers/STM32L0xx_HAL_Driver/stm32l0xx_hal_i2c_ex.o	42fa37a72ceb0c88
+279	501	7012484498308418	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Obj/Drivers/STM32L0xx_HAL_Driver/stm32l0xx_hal_pwr.o	40bab3b6ae467b63
+256	517	7012484498507860	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Obj/Drivers/STM32L0xx_HAL_Driver/stm32l0xx_hal_flash_ramfunc.o	e3f7678569fc73c1
+198	523	7012484498647499	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Obj/Drivers/STM32L0xx_HAL_Driver/stm32l0xx_hal_flash.o	59ca92e315d2c960
+303	618	7012484499624870	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Obj/Drivers/STM32L0xx_HAL_Driver/stm32l0xx_hal_gpio.o	291458f3457747d7
+221	633	7012484499694688	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Obj/Drivers/STM32L0xx_HAL_Driver/stm32l0xx_hal_flash_ex.o	e00ebcbf9bbafadf
+475	664	7012484500093629	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Obj/Drivers/STM32L0xx_HAL_Driver/stm32l0xx_hal_tim_ex.o	e90cb681e3309983
+619	674	7012484500193359	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Obj/Drivers/STM32L0xx_HAL_Driver/stm32l0xx_ll_lpuart.o	36796822e1e7ca2b
+241	685	7012484500243217	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Obj/Drivers/STM32L0xx_HAL_Driver/stm32l0xx_hal_dma.o	f5cfec40fbf453b7
+503	699	7012484500462638	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Obj/Drivers/STM32L0xx_HAL_Driver/stm32l0xx_hal_pwr_ex.o	13220dc14e5a9ce0
+526	707	7012484500542437	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Obj/Drivers/STM32L0xx_HAL_Driver/stm32l0xx_hal_tim.o	6cdde6ce25e3d65
+519	811	7012484501599596	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Obj/Drivers/STM32L0xx_HAL_Driver/stm32l0xx_hal_rcc_ex.o	6bffb7b47ed1cfea
+344	942	7012484502893505	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Obj/Drivers/STM32L0xx_HAL_Driver/stm32l0xx_hal_rcc.o	9841025f9ca1235a
+635	945	7012484502933388	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Obj/Drivers/STM32L0xx_HAL_Driver/stm32l0xx_hal_uart_ex.o	175865d676c3ecb3
+496	1527	7012484508732252	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Obj/Drivers/STM32L0xx_HAL_Driver/stm32l0xx_hal_uart.o	77b745e550437327
+296	1919	7012484512610572	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Obj/Drivers/STM32L0xx_HAL_Driver/stm32l0xx_hal_i2c.o	996f3396c5580948
+1920	1985	7012484513329288	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Exe/L010_Test.out	612a3d4c1e1b08ac
+1986	1993	7012484513478888	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Exe/L010_Test.hex	8fa8f8f882592f6c
+1	142	7012578582097919	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Obj/Application/User/Modules/serial_user.o	ce82ddeb443ccf73
+2	217	7012579647436048	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Obj/Application/User/Core/main.o	e1beadcaa18a6678
+218	276	7012579648001931	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Exe/L010_Test.out	612a3d4c1e1b08ac
+279	287	7012579648181451	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Exe/L010_Test.hex	8fa8f8f882592f6c
+5	228	7013260870132143	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Obj/Application/User/Modules/serial_user.o	ce82ddeb443ccf73
+1	279	7013260870653222	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Obj/Application/User/Core/main.o	e1beadcaa18a6678
+281	422	7013260872069358	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Exe/L010_Test.out	612a3d4c1e1b08ac
+423	432	7013260872238906	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Exe/L010_Test.hex	8fa8f8f882592f6c
+2	199	7013264161379446	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Obj/Application/User/Modules/serial_user.o	ce82ddeb443ccf73
+201	259	7013264161977895	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Exe/L010_Test.out	612a3d4c1e1b08ac
+260	268	7013264162127165	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Exe/L010_Test.hex	8fa8f8f882592f6c
+1	225	7013299448172050	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Obj/Application/User/Core/main.o	e1beadcaa18a6678
+1	158	7013299562367228	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Obj/Application/User/Modules/serial_user.o	ce82ddeb443ccf73
+160	224	7013299563025468	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Exe/L010_Test.out	612a3d4c1e1b08ac
+226	234	7013299563195011	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Exe/L010_Test.hex	8fa8f8f882592f6c
+2	163	7013299952944332	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Obj/Application/User/Modules/serial_user.o	ce82ddeb443ccf73
+164	228	7013299953577526	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Exe/L010_Test.out	612a3d4c1e1b08ac
+230	238	7013299953746795	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Exe/L010_Test.hex	8fa8f8f882592f6c
+1	159	7013301098986873	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Obj/Application/User/Modules/serial_user.o	ce82ddeb443ccf73
+161	221	7013301099575592	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Exe/L010_Test.out	612a3d4c1e1b08ac
+223	231	7013301099754820	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Exe/L010_Test.hex	8fa8f8f882592f6c
+2	212	7013302017394003	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Obj/Application/User/Modules/serial_user.o	ce82ddeb443ccf73
+213	273	7013302017992419	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Exe/L010_Test.out	612a3d4c1e1b08ac
+275	282	7013302018161974	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Exe/L010_Test.hex	8fa8f8f882592f6c
+2	180	7013388427776654	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Obj/Application/User/Modules/serial_user.o	ce82ddeb443ccf73
+181	247	7013388428494430	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Exe/L010_Test.out	612a3d4c1e1b08ac
+248	259	7013388428683920	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Exe/L010_Test.hex	8fa8f8f882592f6c
+2	246	7013390104686404	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Obj/Application/User/Modules/serial_user.o	ce82ddeb443ccf73
+247	316	7013390105374580	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Exe/L010_Test.out	612a3d4c1e1b08ac
+318	326	7013390105574032	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Exe/L010_Test.hex	8fa8f8f882592f6c
+1	209	7013450088277545	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Obj/Application/User/Modules/serial_user.o	ce82ddeb443ccf73
+209	346	7013450089648659	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Exe/L010_Test.out	612a3d4c1e1b08ac
+348	357	7013450089828181	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Exe/L010_Test.hex	8fa8f8f882592f6c
+2	359	7013839650514220	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Obj/Application/User/Core/main.o	e1beadcaa18a6678
+360	583	7013839652757162	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Exe/L010_Test.out	612a3d4c1e1b08ac
+585	620	7013839653189276	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Exe/L010_Test.hex	8fa8f8f882592f6c
+1	74	7013862313922820	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Obj/Application/EWARM/startup_stm32l010x4.o	d051d9cba97f24ac
+48	245	7013862315678111	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Obj/Application/User/Core/stm32l0xx_hal_msp.o	55459f50649a4d39
+53	310	7013862316326373	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Obj/Application/User/Core/stm32l0xx_it.o	a0c5827bec9c060c
+55	326	7013862316466009	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Obj/Application/User/Modules/Serial.o	78787677c3c55aea
+60	341	7013862316535817	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Obj/Drivers/CMSIS/system_stm32l0xx.o	4f8943aafd208876
+63	345	7013862316605636	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Obj/Application/User/Modules/ASCII_numbers.o	389b63e692635426
+58	360	7013862316805099	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Obj/Application/User/Modules/SevenSegLED.o	22646bf25b0e49fc
+50	388	7013862317094326	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Obj/Application/User/Core/main.o	e1beadcaa18a6678
+66	423	7013862317463332	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Obj/Application/User/Modules/serial_user.o	ce82ddeb443ccf73
+69	448	7013862317682755	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Obj/Drivers/STM32L0xx_HAL_Driver/stm32l0xx_hal_exti.o	e8d694a9c03dc54f
+74	454	7013862317722649	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Obj/Drivers/STM32L0xx_HAL_Driver/stm32l0xx_hal.o	d6914660ea1b5fa2
+246	493	7013862318161468	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Obj/Drivers/STM32L0xx_HAL_Driver/stm32l0xx_hal_flash.o	59ca92e315d2c960
+342	524	7013862318460673	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Obj/Drivers/STM32L0xx_HAL_Driver/stm32l0xx_hal_cortex.o	87bb11e06f32c11a
+361	547	7013862318680086	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Obj/Drivers/STM32L0xx_HAL_Driver/stm32l0xx_hal_pwr.o	40bab3b6ae467b63
+347	561	7013862318819715	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Obj/Drivers/STM32L0xx_HAL_Driver/stm32l0xx_hal_flash_ramfunc.o	e3f7678569fc73c1
+424	595	7013862319188720	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Obj/Drivers/STM32L0xx_HAL_Driver/stm32l0xx_hal_i2c_ex.o	42fa37a72ceb0c88
+311	621	7013862319438053	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Obj/Drivers/STM32L0xx_HAL_Driver/stm32l0xx_hal_flash_ex.o	e00ebcbf9bbafadf
+390	640	7013862319617579	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Obj/Drivers/STM32L0xx_HAL_Driver/stm32l0xx_hal_gpio.o	291458f3457747d7
+327	655	7013862319767173	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Obj/Drivers/STM32L0xx_HAL_Driver/stm32l0xx_hal_dma.o	f5cfec40fbf453b7
+623	668	7013862319936720	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Obj/Drivers/STM32L0xx_HAL_Driver/stm32l0xx_ll_lpuart.o	36796822e1e7ca2b
+548	687	7013862320106265	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Obj/Drivers/STM32L0xx_HAL_Driver/stm32l0xx_hal_tim_ex.o	e90cb681e3309983
+525	695	7013862320186064	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Obj/Drivers/STM32L0xx_HAL_Driver/stm32l0xx_hal_pwr_ex.o	13220dc14e5a9ce0
+456	709	7013862320335652	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Obj/Drivers/STM32L0xx_HAL_Driver/stm32l0xx_hal_rcc_ex.o	6bffb7b47ed1cfea
+596	735	7013862320594963	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Obj/Drivers/STM32L0xx_HAL_Driver/stm32l0xx_hal_tim.o	6cdde6ce25e3d65
+642	897	7013862322220980	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Obj/Drivers/STM32L0xx_HAL_Driver/stm32l0xx_hal_uart_ex.o	175865d676c3ecb3
+495	962	7013862322859269	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Obj/Drivers/STM32L0xx_HAL_Driver/stm32l0xx_hal_rcc.o	9841025f9ca1235a
+563	1439	7013862327611057	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Obj/Drivers/STM32L0xx_HAL_Driver/stm32l0xx_hal_uart.o	77b745e550437327
+451	1857	7013862331773949	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Obj/Drivers/STM32L0xx_HAL_Driver/stm32l0xx_hal_i2c.o	996f3396c5580948
+1858	1921	7013862332442166	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Exe/L010_Test.out	612a3d4c1e1b08ac
+1923	1931	7013862332611707	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Exe/L010_Test.hex	8fa8f8f882592f6c
+2	157	7013864594653948	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Obj/Application/User/Modules/serial_user.o	ce82ddeb443ccf73
+158	217	7013864595242373	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Exe/L010_Test.out	612a3d4c1e1b08ac
+218	226	7013864595401946	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Exe/L010_Test.hex	8fa8f8f882592f6c
+1	219	7013884921992583	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Obj/Application/User/Modules/serial_user.o	ce82ddeb443ccf73
+220	285	7013884922632827	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Exe/L010_Test.out	612a3d4c1e1b08ac
+287	294	7013884922812328	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Exe/L010_Test.hex	8fa8f8f882592f6c
+1	218	7013958466881140	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Obj/Application/User/Modules/serial_user.o	ce82ddeb443ccf73
+219	280	7013958467500679	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Exe/L010_Test.out	612a3d4c1e1b08ac
+281	289	7013958467660261	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Exe/L010_Test.hex	8fa8f8f882592f6c
+1	226	7014063665743272	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Obj/Application/User/Modules/serial_user.o	ce82ddeb443ccf73
+228	301	7014063666511217	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Exe/L010_Test.out	612a3d4c1e1b08ac
+302	311	7014063666680763	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Exe/L010_Test.hex	8fa8f8f882592f6c
+2	217	7014068601081188	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Obj/Application/User/Modules/serial_user.o	ce82ddeb443ccf73
+218	278	7014068601699459	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Exe/L010_Test.out	612a3d4c1e1b08ac
+280	288	7014068601868748	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Exe/L010_Test.hex	8fa8f8f882592f6c
+0	159	7014073433292669	C:/Users/johnn/Downloads/L010_Test_2/L010_Test/EWARM/L010_Test/Obj/Application/User/Modules/serial_user.o	ce82ddeb443ccf73
