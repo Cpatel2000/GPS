@@ -112,13 +112,6 @@ uint8_t ParsePacket (uint8_t *_packet2Check, uint8_t _packetLength, uint8_t _par
         GPSConvertASCII2FLOAT((char const *)&_packet2Check[currentSeparator], nextSeparator-currentSeparator, &float_buff);
         gpsData0.values.latitude = float_buff;
         break;
-      // case 2:
-      //   GPSConvertASCII2FLOAT((char const *)&_packet2Check[currentSeparator], nextSeparator-currentSeparator, &float_buff);
-      //   uint16_t lat_minutes = (uint16_t) (float_buff * 100);
-      //   float lat_decimal = float_buff - ((float) lat_minutes / 100);
-      //   float_buff = (lat_decimal / 60) + lat_minutes / 100;
-      //   gpsData0.values.latitude = float_buff;
-      //   break;
       case 3:
         gpsData0.values.ns_indic = tmp_buff[0];
         break;
@@ -126,13 +119,6 @@ uint8_t ParsePacket (uint8_t *_packet2Check, uint8_t _packetLength, uint8_t _par
         GPSConvertASCII2FLOAT((char const *)&_packet2Check[currentSeparator], nextSeparator-currentSeparator, &float_buff);
         gpsData0.values.longitude = float_buff;
         break;
-      // case 4:
-      //   GPSConvertASCII2FLOAT((char const *)&_packet2Check[currentSeparator], nextSeparator-currentSeparator, &float_buff);
-      //   uint16_t lon_minutes = (uint16_t) (float_buff * 100);
-      //   float lon_decimal = float_buff - ((float) lon_minutes / 100);
-      //   float_buff = (lon_decimal / 60) + lon_minutes / 100;
-      //   gpsData0.values.longitude = float_buff;
-      //   break;
       case 5:
         gpsData0.values.ew_indic = tmp_buff[0];
         break;
